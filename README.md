@@ -18,7 +18,7 @@ It performs basic operations like:
 - RTL Viewer
 
 ### 📸 RTL Viewer Output:
-![RTL Viewer Screenshot](./waveform/RTL_viewer_ALU.png)
+https://github.com/VishalSingh-ML/DFT_Verilog_Projects6_ALU_Quartus/tree/main/Output
 
 ### 📁 File Structure:
 - `alu.v` – Top-level ALU module
